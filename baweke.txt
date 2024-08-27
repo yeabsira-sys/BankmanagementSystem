@@ -1,0 +1,6 @@
+Name: baweke
+Account number: 1008029875
+1234
+Balance: 100000.0
+Date:-Fri Mar 24 19:37:28 EAT 2023
+

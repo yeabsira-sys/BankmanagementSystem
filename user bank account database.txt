@@ -1,0 +1,33 @@
+Name: Yeabsira
+Account number: 1009233666
+Date: Fri Mar 24 19:34:48 EAT 2023
+Name: netsanet
+Account number: 1001698684
+Date: Fri Mar 24 19:35:34 EAT 2023
+Name: habtamu
+Account number: 1008706398
+Date: Fri Mar 24 19:36:34 EAT 2023
+Name: baweke
+Account number: 1008029875
+Date: Fri Mar 24 19:37:09 EAT 2023
+Name: natnael
+Account number: 1008448214
+Date: Fri Mar 24 19:37:52 EAT 2023
+Name: Yeabsira
+Account number: 1009476661
+Date: Fri Mar 24 19:39:17 EAT 2023
+Name: netsanet
+Account number: 10010180459
+Date: Fri Mar 24 19:46:50 EAT 2023
+Name: Yeabsira
+Account number: 1003186738
+Date: Fri Mar 24 19:52:35 EAT 2023
+Name: netsanetm
+Account number: 1003161215
+Date: Fri Mar 24 21:52:18 EAT 2023
+Name: belete
+Account number: 1008330512
+Date: Tue Mar 28 11:43:12 EAT 2023
+Name: yeabsira
+Account number: 1007421804
+Date: Mon Apr 03 13:34:15 EAT 2023

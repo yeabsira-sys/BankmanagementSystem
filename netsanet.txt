@@ -1,0 +1,6 @@
+Name: netsanet
+Account number: 10010180459
+1234
+Balance: 100000.0
+Date:-Fri Mar 24 19:47:58 EAT 2023
+

@@ -1,0 +1,6 @@
+Name: habtamu
+Account number: 1008706398
+1234
+Balance: 100000.0
+Date:-Fri Mar 24 19:36:44 EAT 2023
+
